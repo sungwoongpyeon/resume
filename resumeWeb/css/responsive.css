@@ -90,6 +90,16 @@
  */
 
 @media (max-width: 767px) {
+  /* Home Image */
+  #header {
+    background: url("../images/home_bg.jpg") scroll center center/cover;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
   /* Navbar */
   nav {
     padding: 20px 15px;
