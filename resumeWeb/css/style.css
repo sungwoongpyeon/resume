@@ -216,11 +216,13 @@ nav ul li a {
 
 .logo {
   float: left;
+  margin-top: 10px;
+  color: #999999;
+  font-family: 'Poppins', helvetica sans-serif;
+  font-weight: 500;
 }
 
 #logoN{
-  font-style: oblique;
-  font-family: "Times New Roman", Times, serif;
   width: 100px;
   height: 50px;
   font-size: 1.5em;
