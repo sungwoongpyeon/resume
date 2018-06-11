@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Sungwoong Pyeon", "Mohawk Student", "Web Developer", "Traveler"],
+      strings: ["Sungwoong Pyeon", "a Mohawk Student", "a Web Developer", "a Traveler"],
       typeSpeed: 100,
       loop: true,
     });
