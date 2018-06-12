@@ -144,10 +144,8 @@
     margin-bottom: 0;
   }
   /* portfolio */
-  #portfolio .portfolio-list .nav li {
-    float: none;
-    margin: 20px;
-    display: inline-block;
+  .showHideTop, .showHideBottom{
+    padding-bottom: 40px;
   }
   /* journal */
   #journal .journal-block .journal-info {
