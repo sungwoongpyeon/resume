@@ -85,7 +85,8 @@ $(document).ready(function() {
     });
   });
 
-  // Experience js
+  // Experience js//
+
   $(document).ready(function(){
     $('.showHideTop').hide();
     $('.showHideBottom').hide();
@@ -98,12 +99,14 @@ $(document).ready(function() {
     });
   });
 
+
   $(document).ready(function(){
     $('img.workpicBottom').click(function(){
       var showHideB = $('.showHideBottom');
       showHideB.animate({height:'toggle'});
     });
   });
+
 
 
   // ========================================================================= //
